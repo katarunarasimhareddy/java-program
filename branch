@@ -1,1 +1,19 @@
-enter a file name
+class main
+{
+    public static void main{
+        string name="narasimha";
+      int age=22;
+      system.out.println("narasimha"+age);
+        }
+      }
+        class main
+          {    
+          public static void main
+{
+          int num1=29
+            int num2=13;
+            int result=num2*num2;
+          system.out.println(result);
+              }
+}
+
